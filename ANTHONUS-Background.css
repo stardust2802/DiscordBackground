@@ -8,7 +8,7 @@
 @import url("https://anthonuss.github.io/DiscordBackground/ANTHONUSBackground.css");
 
 :root {
-    --background-image: url("https://anthonus.fr/ShareFiles/ANTHONUS/Discord-themes/Backgrounds/Tiny%20Glade/farm-night.png"); /* Url of background image (from my website)*/
+    --background-image: url("https://raw.githubusercontent.com/stardust2802/images-to-use/a647879d730a79bd4862be1d87c07d27e9ab37dd/1749628701253.png"); /* Url of background image (from my website)*/
     --blur-amount: 1px; /* amount of background blur (recommended to be >1 for less screen artifacts*/
-    --opacity-amount: 50%; /* Opacity of background-image.*/
+    --opacity-amount: 100%; /* Opacity of background-image.*/
 }
